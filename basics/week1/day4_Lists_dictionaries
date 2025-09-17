@@ -1,0 +1,12 @@
+# List
+
+fruits = ["pineapple","passionfruit","dragon fruit"]
+fruits.append("lingonberry")
+print(fruits)
+
+# Dictionary
+
+person = {"name": "Chris", "age" : 31}
+print(person["name"])
+person["job"] = "Programmer"
+print(person)
